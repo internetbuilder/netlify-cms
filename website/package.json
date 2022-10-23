@@ -17,7 +17,7 @@
     "@emotion/cache": "^10.0.29",
     "@emotion/core": "^10.0.35",
     "@emotion/styled": "^10.0.27",
-    "dayjs": "^1.8.23",
+    "dayjs": "^1.11.5",
     "emotion-theming": "^10.0.27",
     "gatsby": "3.12.1",
     "gatsby-plugin-catch-links": "3.12.0",
