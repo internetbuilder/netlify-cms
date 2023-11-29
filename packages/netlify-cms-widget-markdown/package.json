@@ -30,7 +30,7 @@
     "rehype-remark": "^8.0.0",
     "rehype-stringify": "^7.0.0",
     "remark-parse": "^6.0.3",
-    "remark-rehype": "^4.0.0",
+    "remark-rehype": "^6.0.0",
     "remark-stringify": "^6.0.4",
     "slate": "^0.47.0",
     "slate-base64-serializer": "^0.2.107",
