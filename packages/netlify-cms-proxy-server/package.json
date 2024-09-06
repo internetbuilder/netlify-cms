@@ -30,7 +30,7 @@
     "morgan": "^1.9.1",
     "simple-git": "^2.0.0",
     "what-the-diff": "^0.6.0",
-    "winston": "^3.3.3"
+    "winston": "^3.3.4"
   },
   "devDependencies": {
     "@types/cors": "^2.8.6",
